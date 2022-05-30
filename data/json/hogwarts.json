@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Harry James Potter",
+    "apodo": "Harry",
+    "fechaNacimiento": "1980-07-31",
+    "casa": "Gryffindor",
+    "altura": 180,
+    "hechizo": "Patronus"
+  },
+  {
+    "id": 2,
+    "nombre": "Hermione Jean Granger",
+    "apodo": "Hermione",
+    "fechaNacimiento": "1979-09-19",
+    "casa": "Gryffindor",
+    "altura": 164,
+    "hechizo": "Patronus"
+  },
+  {
+    "id": 3,
+    "nombre": "Ron Weasley",
+    "apodo": "Ron",
+    "fechaNacimiento": "1980-03-01",
+    "casa": "Gryffindor",
+    "altura": 185,
+    "hechizo": "Locomotor"
+  },
+  {
+    "id": 4,
+    "nombre": "Cedric Diggory",
+    "apodo": "Cedric",
+    "fechaNacimiento": "1977-10-12",
+    "casa": "Hufflepuff",
+    "altura": 185,
+    "hechizo": "Orchideous"
+  },
+  {
+    "id": 5,
+    "nombre": "Luna Lovegood",
+    "apodo": "Luna",
+    "fechaNacimiento": "1981-02-15",
+    "casa": "Ravenclaw",
+    "altura": 157,
+    "hechizo": "Descendo"
+  },
+  {
+    "id": 6,
+    "nombre": "Draco Lucius Malfoy Black",
+    "apodo": "Draco",
+    "fechaNacimiento": "1980-07-05",
+    "casa": "Slytherin",
+    "altura": 175,
+    "hechizo": "Incendio"
+  }
+]
