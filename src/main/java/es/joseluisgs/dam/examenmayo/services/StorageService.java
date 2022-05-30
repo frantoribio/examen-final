@@ -18,5 +18,5 @@ public interface StorageService<T> {
      *
      * @return Elementos almacenados.
      */
-    T load(Path Path) throws IOException;
+    T load(Path Path);
 }

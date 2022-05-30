@@ -9,6 +9,7 @@ module es.joseluisgs.dam.examenmayo {
     opens es.joseluisgs.dam.examenmayo to javafx.fxml;
     exports es.joseluisgs.dam.examenmayo;
     exports es.joseluisgs.dam.examenmayo.controllers;
+    exports es.joseluisgs.dam.examenmayo.models;
     opens es.joseluisgs.dam.examenmayo.controllers to javafx.fxml;
 
     // Para que exporte bien el JSON, descomenta esto o añade las clases a la lista de exports
